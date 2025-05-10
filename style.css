@@ -1,0 +1,182 @@
+body {
+    font-family: sans-serif;
+    background-color: aquamarine;
+    
+}
+
+nav {
+text-align: center;
+text-decoration: none;
+display: flex;
+justify-content: space-around;
+
+}
+
+h1 {
+text-align: center;
+
+
+}
+
+header {
+background-color:lightblue;
+
+
+
+}
+
+
+a {
+text-decoration: none;
+
+
+}
+
+div {
+height: 200px;
+width: 1000px;
+border-radius:10%;
+background-color:darkblue;
+}
+
+div img{
+    width: 200px;
+    height: 200px;
+
+}
+
+.about{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.about p{
+    margin-left: 30px;
+    margin-top: 70px;
+}
+
+.paragraf {
+width: 45%;
+height: 250px;
+padding: 5px;
+
+}
+
+.paragraf2 {
+width: 45%;
+height: 250px;
+padding: 5px;
+
+}
+
+div h4{
+    text-align: center;
+}
+
+section{
+    display: flex;
+    justify-content: space-between;
+}
+
+h6 {
+font-size: 20px;
+
+
+
+}
+
+.paragraf3 {
+width: 45%;
+height: 200px;
+padding: 5px;
+text-align: center;
+
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    background-color: aquamarine;
+}
+
+.kontackt {
+width: 45%;
+height: 100px;
+padding-top: 5px;
+text-align: center;
+margin: 5px;
+
+
+}
+
+
+
+
+header:hover {
+background-color: aliceblue
+border: 2px dotted black;
+
+
+}
+
+p {
+color: white
+
+
+}
+
+section{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+.vv {
+    display: flex;
+    justify-content: space-between;
+    border: 5px double black;
+   
+   
+
+}
+
+.vv img {
+    height: 200px;
+    width: 200px;
+
+
+
+
+
+
+
+}
+
+article p {
+    text-align: center;
+
+
+}
+
+article a {
+    text-align: center;
+
+
+}
+
+
+nav:hover {
+    background-color: aliceblue;
+
+
+}
+
+a:hover {
+    color: black;
+    background-color: aliceblue;
+    
+
+}
